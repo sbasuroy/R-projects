@@ -1,6 +1,6 @@
 # R-projects
 
-##### AUTHOR: Sayantani Basu Roy
+##### AUTHOR: Sayantani B.
 ##### Last Updated: Thursday, August 21st, 2025
 
 ### ABOUT THIS FOLDER:
