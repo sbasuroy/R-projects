@@ -11,7 +11,7 @@
 ### The datasets that have been used are not included as, for a fellow data enthusiast to replicate these results, internediate level of familiarity with RStudio (Desktop or web browser version) is required. Given that, the datasets used here are available within the RStudio workspace.
 
 ### CODES:
-### The codes are sometimes original sometimes not, but always functional. These files have the suffix ".R"
+### The codes are ensured to be functional. The files bear the suffix ".R"
 
 ### FIGURES:
 ### Each code file's figures will have its own folder. The folder naming convention used for the figure pdfs is as follows:
