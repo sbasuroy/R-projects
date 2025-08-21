@@ -8,8 +8,7 @@
 ### This is a portfolio repository providing a glimpse into my R skills. 
 
 ### DATA:
-### The datasets that have been used are not included as, for a fellow data enthusiast to replicate these results, it is 
-### imperative to be comfortable with RStudio (Desktop or web browser version) and then you will be able to access the
+### The datasets that have been used are not included as, for a fellow data enthusiast to replicate these results, it is imperative to be comfortable with RStudio (Desktop or web browser version) and then you will be able to access the
 ### data inside the RStudio console itself.
 
 ### CODES:
