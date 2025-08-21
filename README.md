@@ -1,7 +1,7 @@
 # R-projects
 
-### AUTHOR: Sayantani Basu Roy
-### Last Updated: Thursday, August 21st, 2025
+##### AUTHOR: Sayantani Basu Roy
+##### Last Updated: Thursday, August 21st, 2025
 
 ### ABOUT THIS FOLDER:
 ##### This folder includes several data analytics explorations using R packages and R datasets.
