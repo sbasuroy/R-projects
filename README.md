@@ -8,15 +8,12 @@
 ### This is a portfolio repository providing a glimpse into my R skills. 
 
 ### DATA:
-### The datasets that have been used are not included as, for a fellow data enthusiast to replicate these results, it is imperative to be comfortable with RStudio (Desktop or web browser version) and then you will be able to access the
-### data inside the RStudio console itself.
+### The datasets that have been used are not included as, for a fellow data enthusiast to replicate these results, internediate level of familiarity with RStudio (Desktop or web browser version) is required. Given that, the datasets used here are available within the RStudio workspace.
 
 ### CODES:
-### The codes are sometimes original sometimes not, but always functional.
-### The files with codes have the suffix ".R"
+### The codes are sometimes original sometimes not, but always functional. These files have the suffix ".R"
 
 ### FIGURES:
-### Each code file's figures will have its own folder.
-### The folder naming convention used for the figure pdfs is as follows:
+### Each code file's figures will have its own folder. The folder naming convention used for the figure pdfs is as follows:
 ### "A_B.pdf" where "A" is the name of the file used to generate the figure and 
 ### "B" is the type of data representation (histogram or boxplot and so on).
